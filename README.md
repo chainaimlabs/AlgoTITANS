@@ -7,3 +7,7 @@ Algorand  Trade Intelligence and Tokenized Asset Network Settlement
 
 
 [Uploading AlgoTITANS.pptx…]()
+
+## Demo Video
+
+https://youtu.be/x-cKslvqUss
